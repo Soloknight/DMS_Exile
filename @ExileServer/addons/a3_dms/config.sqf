@@ -118,7 +118,7 @@ DMS_DEBUG = false;
 										];
 
 	DMS_findSafePosBlacklist =			[							// For BIS_fnc_findSafePos position blacklist info refer to: https://community.bistudio.com/wiki/BIS_fnc_findSafePos
-											[[22500,19420],[24870,16725]]		// Salt flats
+											[[22500,19420],[24870,16725],[9420,4770],[3982,9277],[973,2774]]		// Salt flats
 										];
 /* Mission System Settings */
 
